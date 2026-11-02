@@ -1,0 +1,49 @@
+# Auto-aligned chart for Tom's Diner
+0.3 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+3.62 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+36.54 | I am sitting in the morning | red
+41.42 | At the diner on the corner | red
+43.88 | I am waiting at the counter | red
+46.5 | For the man to pour the coffee | red
+49.38 | And he fills it only halfway | yellow
+51.58 | And before I even argue | yellow
+54.0 | He is looking out the window | yellow
+56.6 | At somebody coming in | yellow
+59.26 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+78.08 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+89.3 | "It is always nice to see you" | yellow
+94.22 | Says the man behind the counter | yellow
+96.5 | To the woman who has come in | yellow
+98.76 | She is shaking her umbrella | yellow
+108.87 | And I look the other way | red
+112.11 | As they are kissing their hellos | red
+117.53 | And I'm pretending not to see them | red
+126.19 | And instead I pour the milk | red
+128.59 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+133.11 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+146.93 | Oh no, it is always nice to see you | red
+150.53 | It is always nice to see you | yellow
+153.11 | 'Cause it's always nice to see you | red
+155.57 | It is always nice to see you | yellow
+158.21 | It is al-al-always nice | red
+161.61 | Al-al-always nice | yellow
+163.77 | It's always nice to see you | red
+165.87 | Always nice to see you | yellow
+167.99 | It is al-al-always nice | red
+172.19 | Oh, it is al-al-always nice | yellow
+179.37 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+184.11 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+216.61 | Oh, it is always nice to see you | red
+221.19 | Always nice | yellow
+221.65 | It's always nice to see you | red
+226.27 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+233.33 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+235.73 | (oh, na, na, na, da, dada) | blue
+238.11 | Doo, doo, doo, doo, doo, doodoo, doo | blue
+241.01 | Doo, doo, doo, doo, doo, duhdoodoo (ooh) | blue
+245.73 | (oh, it is always nice to see you) | blue
+246.07 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+248.23 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+265.35 | (always nice to see you) | blue
+271.19 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
+273.61 | Doo-doo-doo-doo, doo-doo-doo-doo | blue
