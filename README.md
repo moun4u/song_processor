@@ -1,5 +1,5 @@
 # Song Processor
-A Python CLI tool designed to prepare custom tracks for **Karaoke With Friends**. It uses **Demucs** for AI vocal/instrumental separation and **Whisper / Stable-Whisper** for automated timestamped lyric transcription or forced alignment.
+A Python CLI tool designed to prepare custom tracks for [**Karaoke With Friends**](https://moun4u.itch.io/karaoke-with-friends). It uses **Demucs** for AI vocal/instrumental separation and **Whisper / Stable-Whisper** for automated timestamped lyric transcription or forced alignment.
 
 ## Prerequisites
 
