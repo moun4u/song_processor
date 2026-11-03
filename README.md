@@ -52,24 +52,17 @@ python song_processor_cli.py path/to/song.mp3 path/to/lyrics.txt
 ## Script Options & Prompts
 When running the script interactively, you will be asked for the following parameters:
 
-Transcription Strength / Model Size: (base, small, medium, large)
-
+**Transcription Strength / Model Size: (base, small, medium, large)**
 Controls the accuracy and resource weight of the Whisper AI model.
 
-Default: large
+**Default:** large
 
-Song File Path:
+**Song File Path:** Path to your audio file (.mp3, .wav, .flac, .m4a, .mp4).
 
-Path to your audio file (.mp3, .wav, .flac).
-
-Custom Lyrics File Path (Optional):
-
+**Custom Lyrics File Path (Optional):**
 Path to a .txt file containing your song lyrics for forced alignment via stable-whisper. Press Enter to skip if you want Whisper to auto-transcribe the vocals from scratch.
 
-Language Code:
-
-Main language of the track (e.g., 'en' for English, 'ko' for Korean).
-
+**Language Code:** Main language of the track (e.g., 'en' for English, 'ko' for Korean).
 Default: en
 
 ## Output Structure
@@ -84,7 +77,7 @@ Once processing completes, a folder named output_songs/{song_name}/ will be crea
 ## Customizing Lyrics & Formatting
 If the automatically generated .txt output isn't satisfactory, you can feed a custom lyrics .txt file into the processor.
 
-## Custom Input Format (.txt)
+### Custom Input Format (.txt)
 Use # at the beginning of a line to add comments or ignore lines.
 
 Use bracketed singer names (e.g., [bob], [tim]) to assign different colors per singer for the game UI.
@@ -106,7 +99,7 @@ lyrics sentence
 ```
 (Note: Lines before any singer tag remain white/default, while subsequent lines automatically cycle through assigned team colors like blue, red, yellow, green, and pink).
 
-## Final Output File Structure
+### Final Output File Structure
 If you prefer to manually tweak the output text file directly, it follows this strict format:
 ``` 
 time in seconds | lyrics sentence | color

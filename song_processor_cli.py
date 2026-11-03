@@ -108,7 +108,7 @@ if __name__ == "__main__":
     
     # Support drag-and-drop via command line argument if provided, otherwise prompt user
     if len(sys.argv) > 1:
-        target_mp3 = sys.argv[1]
+        target = sys.argv[1]
         target_txt = sys.argv[2] if len(sys.argv) > 2 else ""
         strength = "large"
         language = "en"
@@ -118,11 +118,11 @@ if __name__ == "__main__":
         if not strength:
             strength = "large"
             
-        target_mp3 = input("Enter path to your song file (.mp3/.wav): ").strip().strip('"')
+        target = input("Enter path to your song file (.mp3/.wav): ").strip().strip('"')
         target_txt = input("Enter path to optional custom lyrics (.txt) [Press Enter to skip]: ").strip().strip('"')
         language = input("Enter main language code (e.g. 'en', 'ko') [default: en]: ").strip().lower()
         if not language:
             language = "en"
 
-    process_song(target_mp3, target_txt, strength, language)
+    process_song(target, target_txt, strength, language)
     input("\nProcessing complete! Press Enter to exit...")
