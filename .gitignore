@@ -1,0 +1,15 @@
+# ==========================================
+# Song Processor Ignored Files
+# ==========================================
+
+# Ignore all contents inside the output folder (large audio and chart files)
+output_songs/
+
+# Ignore all contents inside the unprocessed raw songs folder
+unprocessed_songs/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
