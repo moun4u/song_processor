@@ -118,5 +118,5 @@ time in seconds | lyrics sentence | color
 If the output of the .txt is not sactifactory for the user you can either rerun it with either adding a custom lyrics text file into the song processor 
 for the .txt file structure is "#to ignore a line inside the .txt file", "[name of singer] if you want to separate the different person that sings which line" in the game connected to this song processor it will give the lyrics a different collor based on who's singing and the lyrics will be listed with each line and connected to the time sung in the .mp3 file, like this:
 
-The first two lines will not gett a color, but the lines after bob and tim will gain their own colors.
+The first two lines will not get a color, but the lines after bob and tim will gain their own colors.
 
